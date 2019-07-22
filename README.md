@@ -1,4 +1,4 @@
-# POO
+# P.O.O
 Projeto POO - VetSystem
 
 # APLICATIVO VOLTADO A CLÍNICA VETERINÁRIA
